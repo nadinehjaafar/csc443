@@ -1,4 +1,0 @@
-{"username":"sadek","fullname":"meheiddine","password":"sadDOG","sex":"Female","dob":"1947-06-23"}
-{"username":"f","fullname":"f","password":"ffffffff","dob":"2023-11-14"}
-{"username":"abulmeez","fullname":"Abu Hussein ElMeez","password":"abulmeez12345","sex":"Female","dob":"1875-05-14"}
-{"username":"reem.hi","fullname":"dwdiw","password":"uuuuuuuu","sex":"Female","dob":"2023-11-17"}
